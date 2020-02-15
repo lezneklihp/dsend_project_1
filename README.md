@@ -35,7 +35,7 @@ For the context of my results, please refer to this blog post:
 My findings on Airbnb data for Munich (2019) in brief are:
 - Prices for listings were the highest during Oktoberfest.
 - Central areas & areas at the trade fair were the most expensive.
-- The number of available of listings was the highest in the first quarter of the year.
+- The number of available listings was the highest in the first quarter of the year.
 - Conclusions on the availability of a listing based on certain aspects of a listing are random.
 
 ## Acknowledgements & licensing:<a name="Acknowledgements"></a>
