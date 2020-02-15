@@ -39,8 +39,8 @@ My findings on Airbnb data for Munich (2019) in brief are:
 - Conclusions on the availability of a listing based on certain aspects of a listing are random.
 
 ## Acknowledgements & licensing:<a name="Acknowledgements"></a>
-Thanks to Airbnb & OpenStreetMap for publishing data.
-Thanks to Geoff Boeing for his straightforward explanation of how to install the geopandas package & its dependencies.
+- Thanks to Airbnb & OpenStreetMap for publishing data.
+- Thanks to Geoff Boeing for his straightforward explanation of how to install the geopandas package & its dependencies.
 
-Airbnb data are licensed under Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication"
-OpenStreetMap data as of 2020-02-06T21:59:01Z are licensed under the Open Database 1.0 License; https://www.openstreetmap.org/copyright
+- Airbnb data are licensed under Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication"
+- OpenStreetMap data as of 2020-02-06T21:59:01Z are licensed under the Open Database 1.0 License; https://www.openstreetmap.org/copyright
