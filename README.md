@@ -10,7 +10,7 @@ This repository includes the .ipynb file for the first project of the Udacity Da
 The .shp and gzipped .csv files with the geographic & Airbnb data were partially too large to be uploaded to this repository. I thus have not uploaded the data. Nonetheless, the data can be found here:
 
 - Airbnb data on Munich: http://insideairbnb.com/get-the-data.html; All files from 25 November 2019 [accessed 01 February 2020]
-- OpenStreetMap on Upper Bavaria: http://download.geofabrik.de/europe/germany/bayern/; filename: "oberbayern-latest-free.shp.zip" [accessed 01 February 2020]
+- OpenStreetMap on Upper Bavaria: http://download.geofabrik.de/europe/germany/bayern/; filename: "oberbayern-latest-free.shp.zip" [accessed 06 February 2020]
 
 ## Software requirements:<a name="Software_requirements"></a>
 - geopandas==0.6.3
