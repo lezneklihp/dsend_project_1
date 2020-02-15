@@ -13,6 +13,7 @@ The .shp and gzipped .csv files with the geographic & Airbnb data were partially
 - OpenStreetMap on Upper Bavaria: http://download.geofabrik.de/europe/germany/bayern/; filename: "oberbayern-latest-free.shp.zip" [accessed 06 February 2020]
 
 ## Software requirements:<a name="Software_requirements"></a>
+Python version 3.x & the followings packages:
 - geopandas==0.6.3
 - matplotlib==3.1.1
 - numpy==1.17.4
