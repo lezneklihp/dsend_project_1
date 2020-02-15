@@ -1,8 +1,46 @@
-# dsend_project_1
-This repository includes all files for the first project of the (dsend).
+# Overview dsend_project_1:
+- [Repository content](#Repository_content)
+- [Software requirements](#Software_requirements)
+- [Motivation](#Motivation)
+- [Summary of results](#Summary_of_results)
+- [Acknowledgements & licensing](#Acknowledgements)
 
-- libraries used
-- the motivation for the project
-- the files in the repository with a small description of each
-- a summary of the results of the analysis
-- necessary acknowledgements
+## Repository content:<a name="Repository_content"></a>
+This repository includes the .ipynb file for the first project of the Udacity Data Scientist for Enterprise Nanodegree.
+The .shp and gzipped .csv files with the geographic & Airbnb data were partially too large to be uploaded to this repository. I thus have not uploaded the data. Nonetheless, the data can be found here:
+
+- Airbnb data on Munich: http://insideairbnb.com/get-the-data.html; All files from 25 November 2019 [accessed 01 February 2020]
+- OpenStreetMap on Upper Bavaria: http://download.geofabrik.de/europe/germany/bayern/; filename: "oberbayern-latest-free.shp.zip" [accessed 01 February 2020]
+
+## Software requirements:<a name="Software_requirements"></a>
+- geopandas==0.6.3
+- matplotlib==3.1.1
+- numpy==1.17.4
+- pandas==0.25.3
+- seaborn==0.9.0
+- shapely==1.7.0
+- sklearn==0.22
+- For geopandas you will need (next to shapely) to install further libraries on a Windows machine:
+  - Fiona==1.8.13
+  - GDAL==3.0.4
+  - pyproj==2.4.2.post1
+  - rtree==0.9.3
+
+## Motivation:<a name="Motivation"></a>
+In Germany, Munich is well known for its high cost of living & for the Oktoberfest. I was curious whether this is reflected in the prices at Airbnb as well. My questions thus addressed pricing, timing, location, & availability of listings on Airbnb. 
+
+## Summary of results:<a name="Summary_of_results"></a>
+For the context of my results, please refer to this blog post:
+
+My findings on Airbnb data for Munich (2019) in brief are:
+- Prices for listings were the highest during Oktoberfest.
+- Central areas & areas at the trade fair were the most expensive.
+- The number of available of listings was the highest in the first quarter of the year.
+- Conclusions on the availability of a listing based on certain aspects of a listing are random.
+
+## Acknowledgements & licensing:<a name="Acknowledgements"></a>
+Thanks to Airbnb & OpenStreetMap for publishing data.
+Thanks to Geoff Boeing for his straightforward explanation of how to install the geopandas package & its dependencies.
+
+Airbnb data are licensed under Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication"
+OpenStreetMap data as of 2020-02-06T21:59:01Z are licensed under the Open Database 1.0 License; https://www.openstreetmap.org/copyright
