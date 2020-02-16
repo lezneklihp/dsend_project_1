@@ -35,13 +35,16 @@ Munich is well known for its high cost of living in Germany & for the Oktoberfes
 ## Summary of results:<a name="Summary_of_results"></a>
 For the context of my results, please refer to this blog post: https://medium.com/@lezneklihp/airbnb-take-me-to-munich-97915e40f579
 
-**When was the most expensive time to book an Airbnb listing in Munich in 2019?**
+- **When was the most expensive time to book an Airbnb listing in Munich in 2019?**
 Prices for listings were the highest during Oktoberfest.
-**Where were the most expensive listings located?**
+
+- **Where were the most expensive listings located?**
 Central areas were the most expensive.
-**When were the most listings available?**
+
+- **When were the most listings available?**
 The number of available listings was the highest in the first quarter of the year.
-**Are there any aspects of a listing which allow to conclude whether a listing is available?**
+
+- **Are there any aspects of a listing which allow to conclude whether a listing is available?**
 Conclusions on the availability of a listing based on certain aspects of a listing are random.
 
 ## Acknowledgements & licensing:<a name="Acknowledgements"></a>
