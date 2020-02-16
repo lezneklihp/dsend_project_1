@@ -27,6 +27,8 @@ Python version 3.x & the followings packages:
   - pyproj==2.4.2.post1
   - rtree==0.9.3
 
+To run this .ipynb file, I used Jupyter Notebook.
+
 ## Motivation:<a name="Motivation"></a>
 In Germany, Munich is well known for its high cost of living & for the Oktoberfest. I was curious whether this is reflected in the prices at Airbnb as well. My questions thus addressed pricing, timing, location, & availability of listings on Airbnb. 
 
